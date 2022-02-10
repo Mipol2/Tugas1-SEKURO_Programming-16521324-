@@ -5,14 +5,14 @@
 * click sign up
 * isi formulir pendaftaran akun 
 * verifikasi akun
-## Membuat repository
+## Membuat Repository
 * click start a project
 * isi nama repository
 * isi deskripsi repository (optional)
 * pilih privacy repository (public atau private)
 * pilih "initialize this repository with README" untuk menambahkan readme.md pada repository
 * click create repository
-## Membuat file baru
+## Membuat File Baru
 * click create new file
 * beri nama pada file
 * edit filenya
