@@ -24,7 +24,7 @@ Version Control Sistem merupakan sistem yang mengelola perubahan dari sebuah dok
 * ### Checkout
     Berpindah ke sebuah commit.
 * ### Branch
-    Cabang bebas dari sebuah commit
+    Cabang bebas dari sebuah commit.
 * ### Merge
     Tindakan untuk menyatukan branch.
 * ### Remote
