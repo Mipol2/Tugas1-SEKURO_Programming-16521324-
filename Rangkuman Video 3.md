@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VIDEO 3 | [GITHUB : BRANCH](https://www.youtube.com/watch?v=k1QXd-8VbPY)
 
 ## Branch
@@ -42,6 +41,4 @@ cara kedua :
 ## Menghapus Branch
 * click branches pada repository
 * click delete branch pada branch yang ingin dihapus
-=======
 
->>>>>>> 1294f51ba9b40ad4bafee38587225370bff03151
