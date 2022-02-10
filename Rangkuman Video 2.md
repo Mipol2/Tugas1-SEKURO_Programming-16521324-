@@ -20,3 +20,7 @@
 * click commit new file
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1294f51ba9b40ad4bafee38587225370bff03151
