@@ -1,0 +1,2 @@
+# TUGAS 1 PROGRAMMING SEKURO
+## NIM/NAMA: 16521324/Jazmy Izzati Alamsyah
