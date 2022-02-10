@@ -19,11 +19,11 @@
 * Staging area
 * History
 
-## Testing Git Bash
-![](https://i.ibb.co/SV9FgXG/unknown.png)
-![](https://media.discordapp.net/attachments/552451111722811392/941337732016386108/unknown.png)
-![](https://cdn.discordapp.com/attachments/552451111722811392/941337759585558578/unknown.png)
-![](https://media.discordapp.net/attachments/552451111722811392/941338122933903441/unknown.png)
-![](https://media.discordapp.net/attachments/552451111722811392/941338608458166332/unknown.png)
-![](https://cdn.discordapp.com/attachments/552451111722811392/941339063263313930/unknown.png)
-![](https://cdn.discordapp.com/attachments/552451111722811392/941341400446939186/unknown.png)
+## Testing Git Bash  
+![](https://i.ibb.co/SV9FgXG/unknown.png)  
+![](https://media.discordapp.net/attachments/552451111722811392/941337732016386108/unknown.png)  
+![](https://cdn.discordapp.com/attachments/552451111722811392/941337759585558578/unknown.png)  
+![](https://media.discordapp.net/attachments/552451111722811392/941338122933903441/unknown.png)  
+![](https://media.discordapp.net/attachments/552451111722811392/941338608458166332/unknown.png)  
+![](https://cdn.discordapp.com/attachments/552451111722811392/941339063263313930/unknown.png)  
+![](https://cdn.discordapp.com/attachments/552451111722811392/941341400446939186/unknown.png)  
